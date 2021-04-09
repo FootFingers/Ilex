@@ -42,7 +42,7 @@ To begin the build, we will solder the diodes to the top side of the PCB's (the 
 
 Before soldering any diodes, it is highly recommended to first place them into the PCB and then double check they are oriented correctly. This can be done by bending the legs on the bottom side to keep the diodes in place:
 
-> Bent Diodes pic
+![Bent Diodes](images/ilex_3.jpg)
 
 >> Diode Soldering Steps
 
@@ -52,15 +52,21 @@ Ilex has two positions that you can use for the TRRS jack, either to the side of
 
 > TRRS Jack locations image
 
-Only one will need to be soldered per side of the PCB, two total. Depending on what way you would like your connecting aux cable to be orientated will depend on which TRRS jacks you decide to use. 
+Only one will need to be soldered per side of the PCB, two total. Depending on what way you would like your connecting aux cable to be orientated will depend on which TRRS jacks you decide to use. For the purpose of this guide I will use the vertical facing orientation, however feel free to use the horizontal orientation instead.
+
+Before soldering the TRRS jack in place, it is highly recommended to fix it to the PCB with a small piece of masking tape. This will help ensure that the TRRS jack stays in place during soldering. Make sure not to cover the pins on the bottom of the PCB.
+
+![](images/ilex_trrs_1.jpg)
+
+![](images/ilex_trrs_2.jpg)
 
 Once you have selected where your TRRS jack will be soldered, you first will need to bridge the jumper terminals located nearby. If you selected the location at the top of the board you will need to solder the pads `Rn and Rn2`, and if you selected the location below the pro-micro you will need to solder `Rn3 and Rn4`. Do this on the top of the board (the side with masking tape). Ensure that the solder does not flow into any connectors. 
 
 The Reset switch can only be installed in one location, on the edge of the board between the two TRRS jack locations, which can be seen below:
 
-> Reset Switch Location pic
+![](images/ilex_reset.jpg)
 
-Once the locations of both the TRRS jack and the reset switch have been selected, they can be temporarily secured with masking tape on the top side of the board while we solder them into place. Turn over the board and solder the pins from the bottom, make sure to keep the TRRS jack and reset switch in firm contact with the board.
+Once the locations of both the TRRS jack and the reset switch have been selected, double check to make sure the TRRS jack has been secured with masking tape. The reset switch does not require this extra step. Turn over the board and solder the pins from the bottom, making sure to keep the TRRS jack and reset switch in firm contact with the board.
 
 ## Pro Micro / Elite-C
 
