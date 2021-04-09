@@ -50,7 +50,7 @@ Before soldering any diodes, it is highly recommended to first place them into t
 
 Ilex has two positions that you can use for the TRRS jack, either to the side of the pro-micro, or to the south of the pro-micro - the image below outlines these two positions. 
 
-> TRRS Jack locations image
+![TRRS Locations](images/ilex_trrs_locations.jpg)
 
 Only one will need to be soldered per side of the PCB, two total. Depending on what way you would like your connecting aux cable to be orientated will depend on which TRRS jacks you decide to use. For the purpose of this guide I will use the vertical facing orientation, however feel free to use the horizontal orientation instead.
 
