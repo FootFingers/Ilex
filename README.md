@@ -66,7 +66,9 @@ The Reset switch can only be installed in one location, on the edge of the board
 
 ![](images/ilex_reset.jpg)
 
-Once the locations of both the TRRS jack and the reset switch have been selected, double check to make sure the TRRS jack has been secured with masking tape. The reset switch does not require this extra step. Turn over the board and solder the pins from the bottom, making sure to keep the TRRS jack and reset switch in firm contact with the board.
+Once the locations of both the TRRS jack and the reset switch have been selected, double check to make sure the TRRS jack has been secured with masking tape. The reset switch does not require this extra step as it will 'click' into place. Turn over the board and solder the pins from the bottom, making sure to keep the TRRS jack and reset switch in firm contact with the board.
+
+> Image of soldered TRRS and Reset Switch
 
 ## Pro Micro / Elite-C
 
