@@ -81,7 +81,17 @@ Take note of the outlined holes on the PCB. The Pro Micro is installed within th
 > Pro Micro White Frame Pic
 
 
+## OLED (Optional)
+Installing an OLED is entirely optional for this build. If you do intend to add an OLED to your build then the jumper terminals must be bridged.
 
+
+## Testing before continuing
+
+It is highly recommend to stop at this point and test that everything is working correctly. Desoldering components is not as easy as installing them.
+
+![solder meme](images/solder.jpg)
+
+First, assuming that you have flashed the Pro Micro
 
 
 ## Underglow LED's (Optional)
