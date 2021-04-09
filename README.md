@@ -30,9 +30,9 @@ The required parts listed below are for a complete Ilex set (both halves).
 
 ## Getting Started
 
-Assuming you have all of the required parts and however many of the optional parts, we can now begin the process of building your Ilex. The PCB's are reversible, which means that they can be used as either the left or the right side for your keyboard, so you must select which half will be the left-side, and which will be the right-side. Mark each of these by placing a small strip of masking tape on each piece on the top side, as seen below:
+Assuming you have all of the required parts and however many of the optional parts, we can now begin the process of building your Ilex. The PCB's are reversible, which means that they can be used as either the left or the right side for your keyboard, so you must select which half will be the left-side, and which will be the right-side. Mark each of these by placing a small strip of masking tape on each piece on the top side, as this will help to differentiate which is which during the build process. An example of this can be seen below:
 
->**Masking Tape Pic**
+![Masking Tape](images/ilex_1.jpg)
 
 ## Diodes
 
