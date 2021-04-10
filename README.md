@@ -19,6 +19,9 @@ The required parts listed below are for a complete Ilex set (both halves).
 | Acrylic Guard   | 2            |
 | 3.5mm Aux Cable | 1            |
 | USB Cable       | 1            |
+| M2 Standoffs 7mm | |
+| M2 Standoffs 10mm | |
+| M2 Screws 3mm | 48             |
 
 ### Optional
 
