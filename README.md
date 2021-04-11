@@ -6,11 +6,11 @@
 - [Getting Started](#getting-started)
 - [Diodes](#diodes)
 - [TRRS Jack and Reset Switch](#trrs-jack-and-reset-switch)
-- [Pro Micro / Elite-C](#'pro-micro-/-elite--c')
-- [OLED](#oled)
-- [Hotswap Sockets](#hotswap-sockets)
-- [Rotary Encoder](#rotary-encoder)
-[]()
+- [Pro Micro / Elite-C](#pro-micro--elite-c)
+- [OLED](#oled-optional)
+- [Hotswap Sockets](#hotswap-sockets-optional)
+- [Rotary Encoder](https://github.com/FootFingers/Ilex#rotary-encoder-1)
+- [Underglow LED's](https://github.com/FootFingers/Ilex#underglow-leds-optional)
 []()
 
 
