@@ -1,6 +1,19 @@
 # Ilex Build Guide
 
 
+## Contents
+- [Required Parts](#required-parts)
+- [Getting Started](#getting-started)
+- [Diodes](#diodes)
+- [TRRS Jack and Reset Switch](#trrs-jack-and-reset-switch)
+- [Pro Micro / Elite-C](#'pro-micro-/-elite--c')
+- [OLED](#oled)
+- [Hotswap Sockets](#hotswap-sockets)
+- [Rotary Encoder](#rotary-encoder)
+[]()
+[]()
+
+
 ## Required Parts
 
 The required parts listed below are for a complete Ilex set (both halves). 
@@ -112,6 +125,8 @@ First, if you have not flashed the Pro Micro with the firmware earlier do so now
 
 ## Hotswap sockets (Optional)
 
+### Kailh Sockets
+
 If you are intending on making your Ilex hotswappable, then follow this step. Otherwise feel free to skip ahead.
 
 You can use either Kailh hotswap sockets which can be purchased at the same time as the Ilex on FFKeebs, or millmax sockets can be used. For the purpose of this guide I will discuss kailh sockets, and assume if you have purchased millmax soclets elsewhere that you know how to use them. However, both are compatible.
@@ -120,13 +135,23 @@ The sockets are to be soldered on the bottom side of the PCB (the side without t
 
 > Socket pre-solder pic
 
-The purpose of this is that we will reflow this connection to hold the socket in place. Next, place the hot-swap socket into the PCB and make sure it is firmly pressed against the PCB, it is important to make sure these are as flat as possible so the switch pins can fit in correctly. Next, touch the solder that was placed on the pad whilst pressing the hotswap socket against the board with tweezers (this can also be done by hand, but be very careful not to burn yourself). This will cause the solder to flow again, and create a connection with the socket.
+The purpose of this is that we will reflow this connection to hold the socket in place. Next, place the hot-swap socket into the PCB and make sure it is firmly pressed against the PCB, it is important to make sure these are as flat as possible so the switch pins can fit in correctly. Next, reheat the solder that was placed on the pad whilst pressing the hotswap socket against the board with tweezers (this can also be done by hand, but be very careful not to burn yourself). This will cause the solder to flow again, and create a connection with the socket.
 
-If you plan on using a rotary encoder this next step can be skipped, however if you will not be using a rotary encoder and want to use every slot for a switch, make sure to follow this step. 
+Add a small amount of more solder onto the top of socket pressing against the pad to ensure a proper connection. Repeat this step for the other side so that both ends of the socket now have proper connections, example of how this should look below:
 
-To the north of the optional encoder are two jumpers, one on the top of the board and one on the bottom: these two are listed as JP12 and JP13. Both of these terminals (one on each side of the board) must be briged to allow an MX switch to be installed and function correctly. If you plan on using a rotary encoder then this step can be skipped as your Ilex will support the encoder by default. 
+> Image of soldered socket
 
-Once both terminals are bridged, a hotswap socket can be installed if wanted, or a switch can be soldered in directly.
+### Rotary Encoder
+
+If you plan on using a rotary encoder no further steps need to be taken as your Ilex will support this by default, in which case skip ahead to the If however you will not be using a rotary encoder and want to use every slot for a switch, make sure to follow this step.
+
+To the north of the optional encoder are two jumpers, one on the top of the board and one on the bottom: these two are listed as `JP12` and `JP13`. Both of these terminals (one on each side of the board) must be briged to allow an MX switch to be installed and function correctly. If you plan on using a rotary encoder then this step can be skipped as your Ilex will support the encoder by default. 
+
+Once both terminals are bridged, a hotswap socket can be installed if wanted, or a switch can be soldered in directly. Follow the steps listed previously for how to solder install a hotswap socket.
+
+## Rotary Encoder
+
+If you plan on using a rotary encoder no extra steps need to be taken as your Ilex will support this by default.
 
 ## Underglow LED's (Optional)
 
