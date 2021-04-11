@@ -62,6 +62,8 @@ Before soldering any diodes, it is highly recommended to first place them into t
 
 >> Diode Soldering Steps
 
+Finally, we will trim the diode legs using a pair of wire cutters. Make sure to hold on to these trimmed diode legs as these can be used to socket your pro micro as an alternative to purchasing mill max socket pins. 
+
 ## TRRS Jack and Reset Switch
 
 Ilex has two positions that you can use for the TRRS jack, either to the side of the pro-micro, or to the south of the pro-micro - the image below outlines these two positions. 
