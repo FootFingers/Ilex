@@ -151,7 +151,7 @@ Once both terminals are bridged, a hotswap socket can be installed if wanted, or
 
 ## Rotary Encoder
 
-If you plan on using a rotary encoder no extra steps need to be taken as your Ilex will support this by default.
+If you plan on using a rotary encoder no extra steps need to be taken as your Ilex will support this by default. Simply place the encoder into position with the three pins on the south side and two pins on the north side, ensure the encoder is pressed into position and solder the five connecting pins. 
 
 ## Underglow LED's (Optional)
 
